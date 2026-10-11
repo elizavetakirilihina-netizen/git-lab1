@@ -1,2 +1,2 @@
 course=Git
-tatus=dratt
+tatus=main
