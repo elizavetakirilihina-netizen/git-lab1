@@ -9,4 +9,5 @@ Unfinished notes
 - Grygorieva: role 3
 - kirilihina: участница
 - Kuznetsova — роль Б (конфликт и обмен с GitHub)
+- Kuznetsova — роль А, круг 3
 
